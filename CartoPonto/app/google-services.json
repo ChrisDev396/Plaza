@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "136731751193",
+    "project_id": "cartoponto-30ff5",
+    "storage_bucket": "cartoponto-30ff5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136731751193:android:5394767b6170420d964b88",
+        "android_client_info": {
+          "package_name": "com.cartoponto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgMxMRTJirNSO-s1WCeCfUJunZKMC4zK4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
